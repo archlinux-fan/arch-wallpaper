@@ -1,6 +1,6 @@
 # Arch wallpaper generator
 
-![White Arch Linux logo on a dark Nord gradient](https://raw.githubusercontent.com/archlinux-fan/arch-dots/main/wallpapers/webp/arch_nord0_2160p.webp)
+![The generator: settings on the left, live wallpaper preview on the right](docs/screenshot.png)
 
 Make your own Arch Linux wallpaper in the browser: pick a colour, shape the gradient, size the logo and download a PNG.
 
