@@ -1,19 +1,19 @@
-# arch-wallpaper
+# Arch wallpaper generator
 
-Make an Arch Linux wallpaper in your browser: pick a colour, shape the gradient, size the logo and
-download a PNG. The preview updates as you drag. Presets use the [Nord](https://www.nordtheme.com/) palette.
+![White Arch Linux logo on a dark Nord gradient](https://raw.githubusercontent.com/archlinux-fan/arch-dots/main/wallpapers/webp/arch_nord0_2160p.webp)
 
-Everything runs in the browser: nothing is uploaded and there is no build step.
-To try it, open `docs/index.html`.
+Make your own Arch Linux wallpaper in the browser: pick a colour, shape the gradient, size the logo and download a PNG.
 
-## Publish
+**[Open the generator](https://archlinux-fan.github.io/arch-wallpaper/)**
 
-GitHub: Settings → Pages → Deploy from a branch → `main`, `/docs`.
+- See every change live as you drag the sliders.
+- Choose colours with a colour picker, a hex code or the 16 [Nord](https://www.nordtheme.com/) colours.
+- Set the logo's size and colour, or use a shade of the background for a pressed-in look.
+- Make any size up to 7680 pixels, from Full HD to super ultrawide.
+- Get a smooth gradient with no visible bands.
 
-## Files
+Your wallpaper is made on your own computer. Nothing is uploaded.
 
-- `docs/index.html`, `docs/style.css`: the page.
-- `docs/app.js`: the drawing, 8x8 Bayer dithering and the controls.
-- `docs/logo.js`: the logo paths, from `archlinux-logo-text.svg` in Arch's `filesystem` package.
+Prefer a ready-made one? [Browse all 48 wallpapers](https://github.com/archlinux-fan/arch-dots/tree/main/wallpapers), three for each Nord colour.
 
-The Arch Linux name and logo are trademarks of their owner. This is not an official Arch Linux project.
+The code is MIT licensed. The Arch Linux name and logo are trademarks of their owner, and this is not an official Arch Linux project.
